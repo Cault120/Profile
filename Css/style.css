@@ -1,0 +1,106 @@
+body {
+    background-color: #F6F7EB;
+}
+
+#name-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #F6F7EB;
+    background-color: #393E41;
+    height: 100px;
+    padding: 5px;
+}
+
+#location {
+    width: 300px;
+    height: 300px;
+    padding-left: 7px;
+    float: right;
+    background-color: #f18973;
+    text-align: center;
+    margin-top: 2px;
+  }
+
+#paraabm {
+    font-size: large;
+    background-color: #A77464;
+    color: #F6F7EB;
+    height: 280px;
+    width: 1518px;
+    padding: 10px;
+    margin-top: 2px;
+}
+
+#maml {
+    background-color: #3F612D;
+    text-align: center;
+    width: 436px;
+    padding: 10px;
+    margin-top: 2px;
+}
+
+#list1{
+    font-size: 16px;
+    color: #F6F7EB;
+    background-color: #7698B3;
+    padding: 13px;
+    margin-top: 2px;
+    width: 1364px;
+    float: right;
+}
+
+#extra1 {
+    color: #F6F7EB;
+    background-color: #59594A;
+    padding: 10px;
+    height: 319px;
+    margin-right: 212px;
+    margin-top: 2px;
+}
+
+#newsletter {
+    background-color: #9F9FED;
+    text-align: left;
+    width: 180px;
+    padding: 15px;
+    margin-top: 2px;
+    float: right;
+}
+
+h3 {
+    color: #F6F7EB;
+    text-shadow: #393E41 -1px -1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+a:link {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
